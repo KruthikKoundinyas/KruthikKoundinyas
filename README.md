@@ -13,8 +13,6 @@ I'm a passionate **Web Developer** who loves building user-focused, privacy-resp
 
 ## 🛠️ Skills
 
-## 🛠️ Skills
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" />
