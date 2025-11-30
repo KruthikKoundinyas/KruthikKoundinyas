@@ -7,7 +7,7 @@
 
 ---
 
-### 🌐 [Portfolio Website](https://personal-site-kruthik.vercel.app)
+### 🌐 [Portfolio Website](https://kruthik.vercel.app)
 
 > Designed and developed with **Next.js**, **TailwindCSS**, and **Three.js** — featuring interactive UI, animations, and a responsive design.
 
