@@ -29,17 +29,17 @@
         │  .                                │       └────┼────┘   ╰─┬─╯
         │  ├── kruthik.tech/                │            │          │
         │  │   └── Next.js 16 + Gemini AI   │        ┌───┘    ╔════╧════╗
-        │  ├── GoGetGit/                    │        │        ║ ☕  hot  ║
+        │  ├── GoGetGit/                    │        │        ║ ☕  hot ║
         │  │   └── GoFr hackathon · 1st     │     ───┴───     ╚═════════╝
         │  ├── recipe-assistant/            │    /       \
         │  │   └── YOLOv8 · IEEE 2025       │   /  K   R  \     ┌──────┐
-        │  ├── text-enhancer/               │  │    ___    │    │ ◉  ◉ │
+        │  ├── text-enhancer/               │  │    ___    │    │ ◉  ◉│
         │  │   └── Chrome ext · Gemini      │  │   |___|   │    │  __  │
         │  ├── file-converter/              │   \  _____  /     │ |  | │
         │  │   └── local · 10+ formats      │    \_______/      └──────┘
         │  └── 15 more repos...             │
         │                                   │    ┌──────────────────────┐
-        │  382 LC · 20 repos · 2K+ users    │    │░▒▓ [ENTER] ▓▒░░░░░░░│
+        │  382 LC · 20 repos · 2K+ users    │    │░▒▓ [ENTER] ▓▒░░░░░░░ │
         ╰───────────────────────────────────╯    └──────────────────────┘
 ```
 
