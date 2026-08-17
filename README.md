@@ -21,26 +21,26 @@
 
 ```
 
-        ╭───────────────────────────────────╮       ┌─────────┐
-        │  ~/projects                       │       │ ♫ ♪  ♫  │
-        │                                   │       │ ┌─────┐ │    ╭─╮
-        │  $ tree --shipped                 │       │ │     │ │   ╭╯ ╰╮
-        │                                   │       │ └──┬──┘ │   │ K │
-        │  .                                │       └────┼────┘   ╰─┬─╯
-        │  ├── kruthik.tech/                │            │          │
-        │  │   └── Next.js 16 + Gemini AI   │        ┌───┘    ╔════╧════╗
-        │  ├── GoGetGit/                    │        │        ║ ☕  hot ║
-        │  │   └── GoFr hackathon · 1st     │     ───┴───     ╚═════════╝
-        │  ├── recipe-assistant/            │    /       \
-        │  │   └── YOLOv8 · IEEE 2025       │   /  K   R  \     ┌──────┐
-        │  ├── text-enhancer/               │  │    ___    │    │ ◉  ◉│
-        │  │   └── Chrome ext · Gemini      │  │   |___|   │    │  __  │
-        │  ├── file-converter/              │   \  _____  /     │ |  | │
-        │  │   └── local · 10+ formats      │    \_______/      └──────┘
-        │  └── 15 more repos...             │
-        │                                   │    ┌──────────────────────┐
-        │  382 LC · 20 repos · 2K+ users    │    │░▒▓ [ENTER] ▓▒░░░░░░░ │
-        ╰───────────────────────────────────╯    └──────────────────────┘
+        ╭───────────────────────────────────╮       .    ·    *    .    ·
+        │  ~/projects                       │    ·    .    ·    .    *
+        │                                   │       *    .    ·    .
+        │  $ tree --shipped                 │    ╭─────────────────────────╮
+        │                                   │    │  ·  .  *  .  ·  .  *   │
+        │  .                                │    │                         │
+        │  ├── kruthik.tech/                │    │    K R U T H I K        │
+        │  │   └── Next.js 16 + Gemini AI   │    │    ─────────────        │
+        │  ├── GoGetGit/                    │    │    R  Koundinyas        │
+        │  │   └── GoFr hackathon · 1st     │    │                         │
+        │  ├── recipe-assistant/            │    │    Full-Stack · AI/ML   │
+        │  │   └── YOLOv8 · IEEE 2025       │    │                         │
+        │  ├── text-enhancer/               │    │  ░░░▓▓▓░░░▓▓▓░░░▓▓▓░░  │
+        │  │   └── Chrome ext · Gemini      │    │  ·  .  *  .  ·  .  *   │
+        │  ├── file-converter/              │    ╰─────────────────────────╯
+        │  │   └── local · 10+ formats      │       .    ·    *    .    ·
+        │  └── 15 more repos...             │    ·    *    .    ·    .
+        │                                   │       ·    .    *    .
+        │  382 LC · 20 repos · 2K+ users    │          kruthik.tech
+        ╰───────────────────────────────────╯
 ```
 
 ---
