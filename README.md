@@ -20,27 +20,27 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ```
-                                                                            
-        ╭───────────────────────────────────╮       ┌─────────┐             
-        │  ~/projects                       │       │ ♫ ♪  ♫  │             
-        │                                   │       │ ┌─────┐ │    ╭─╮     
-        │  $ tree --shipped                 │       │ │     │ │   ╭╯ ╰╮    
-        │                                   │       │ └──┬──┘ │   │ K │    
-        │  .                                │       └────┼────┘   ╰─┬─╯    
-        │  ├── kruthik.tech/                │            │          │      
-        │  │   ├── Next.js 16 + React 19    │        ┌───┘    ╔════╧════╗  
-        │  │   ├── Three.js portal bg       │        │        ║ ☕  hot  ║  
-        │  │   └── Gemini AI chatbot        │     ───┴───     ╚═════════╝  
-        │  ├── GoGetGit/                    │    /       \                  
-        │  │   └── NLP CLI · GoFr winner    │   /  K   R  \     ┌──────┐   
-        │  ├── CUDA-15625/                  │  │    ___    │    │ ◉  ◉ │   
-        │  │   └── parallel RL sims         │  │   |___|   │    │  __  │   
-        │  ├── AMD-RAG/                     │   \  _____  /     │ |  | │   
-        │  │   └── legal chatbot · winner   │    \_______/      └──────┘   
-        │  └── 17 more repos...             │                              
-        │                                   │    ┌──────────────────────┐  
-        │  382 LC · 20 repos · 2K+ users    │    │░▒▓ [ENTER] ▓▒░░░░░░░│  
-        ╰───────────────────────────────────╯    └──────────────────────┘  
+
+        ╭───────────────────────────────────╮       ┌─────────┐
+        │  ~/projects                       │       │ ♫ ♪  ♫  │
+        │                                   │       │ ┌─────┐ │    ╭─╮
+        │  $ tree --shipped                 │       │ │     │ │   ╭╯ ╰╮
+        │                                   │       │ └──┬──┘ │   │ K │
+        │  .                                │       └────┼────┘   ╰─┬─╯
+        │  ├── kruthik.tech/                │            │          │
+        │  │   └── Next.js 16 + Gemini AI   │        ┌───┘    ╔════╧════╗
+        │  ├── GoGetGit/                    │        │        ║ ☕  hot  ║
+        │  │   └── GoFr hackathon · 1st     │     ───┴───     ╚═════════╝
+        │  ├── recipe-assistant/            │    /       \
+        │  │   └── YOLOv8 · IEEE 2025       │   /  K   R  \     ┌──────┐
+        │  ├── text-enhancer/               │  │    ___    │    │ ◉  ◉ │
+        │  │   └── Chrome ext · Gemini      │  │   |___|   │    │  __  │
+        │  ├── file-converter/              │   \  _____  /     │ |  | │
+        │  │   └── local · 10+ formats      │    \_______/      └──────┘
+        │  └── 15 more repos...             │
+        │                                   │    ┌──────────────────────┐
+        │  382 LC · 20 repos · 2K+ users    │    │░▒▓ [ENTER] ▓▒░░░░░░░│
+        ╰───────────────────────────────────╯    └──────────────────────┘
 ```
 
 ---
@@ -56,37 +56,43 @@
 <td width="50%" valign="top">
 
 **[kruthik.tech](https://www.kruthik.tech)** &ensp; `LIVE`
+
 > Spider-Verse themed portfolio. Marvel Studios intro loader, 3D portal backgrounds, palette picker, AI chatbot, environmental storytelling.
 >
 > `Next.js 16` `React 19` `Three.js` `Gemini AI` `Tailwind v4`
 
-**GoGetGit** &ensp; `1st PLACE`
-> NLP-powered CLI for natural language Git operations. Built at GoFr hackathon.
->
-> `Go` `NLP` `RAG` `CLI`
+**[GoGetGit](https://github.com/AnanteshG/GoFr-Hackathon.git)** &ensp; `1st PLACE`
 
-**CUDA RL Simulator** &ensp; `RESEARCH`
-> 15,625 parallel reinforcement learning simulations on GPU. Isaac Sim integration.
+> Ask any question about a GitHub repo in plain English and get accurate answers. Won 1st place at GoFr Hackathon 2024.
 >
-> `CUDA` `C++` `Python` `RL` `ROS2`
+> `Go` `GoFr` `ChromaDB` `LLaMA 3.2` `Python` `Next.js`
+
+**[Multimodal Recipe Assistant](https://ieeexplore.ieee.org/document/11394557)** &ensp; `IEEE 2025`
+
+> Point your camera at ingredients, get recipes in Kannada or English. 92% ingredient recognition accuracy. Published at IEEE 2025.
+>
+> `Python` `YOLOv8` `Computer Vision` `Gemini API` `Gradio`
 
 </td>
 <td width="50%" valign="top">
 
-**AMD Legal RAG Chatbot** &ensp; `WINNER`
-> Indian traffic law chatbot with retrieval-augmented generation. Won AMD Pervasive AI hackathon.
->
-> `Python` `RAG` `ChromaDB` `LLM`
+**[Gemini AI Text Enhancer](https://github.com/KruthikKoundinyas/Gemini_AI_Text_Enhancer_Chrome_extension)** &ensp; `CHROME EXT`
 
-**Samsung JEEV** &ensp; `NATIONAL FINALIST`
-> AI-powered healthcare innovation. Top 45 nationally in Samsung Innovation Campus.
+> Chrome extension that corrects grammar, adjusts tone, and enhances text right where you're typing. Works offline with caching.
 >
-> `Python` `AI/ML` `TensorFlow`
+> `JavaScript` `Gemini API` `Chrome Extensions`
 
-**IEEE Published** &ensp; `2025`
-> Research paper on AI systems. Published in IEEE conference proceedings.
+**[Secure File Converter](https://type-converter.vercel.app/)** &ensp; `LIVE`
+
+> Converts 10+ file formats entirely on your machine. Nothing uploaded, nothing logged, everything cleaned up.
 >
-> `Research` `AI` `Computer Vision`
+> `Node.js` `Express.js` `FFmpeg` `Sharp`
+
+**[Nim Game AI](https://nimprojectweb.vercel.app/)** &ensp; `LIVE`
+
+> Adaptive AI web game that learns how you play using Q-learning. Retro UI, multiplayer, persistent stats.
+>
+> `JavaScript` `jQuery` `Q-learning`
 
 </td>
 </tr>
@@ -96,8 +102,10 @@
 
 ![GoFr Hackathon](https://img.shields.io/badge/GoFr_Hackathon-1st_Place-E8A43E?style=for-the-badge&labelColor=141210)
 ![AMD AI](https://img.shields.io/badge/AMD_Pervasive_AI-Winner-76B900?style=for-the-badge&labelColor=141210)
-![Samsung](https://img.shields.io/badge/Samsung_Innovation-National_Finalist-4FA8D8?style=for-the-badge&labelColor=141210)
+![Samsung](https://img.shields.io/badge/Samsung_Innovation_Campus-National_Finalist-4FA8D8?style=for-the-badge&labelColor=141210)
 ![IEEE](https://img.shields.io/badge/IEEE_2025-Published-71649C?style=for-the-badge&labelColor=141210)
+![RNSIT Research](https://img.shields.io/badge/RNSIT_Research-15,625_CUDA_Sims-ED7F6E?style=for-the-badge&labelColor=141210)
+![GTTC](https://img.shields.io/badge/GTTC_Intern-2,000+_Users-71649C?style=for-the-badge&labelColor=141210)
 
 </div>
 
@@ -262,11 +270,11 @@
                                                                                        ╔═══╗
                                                                                        ║   ║
        ┌────────┐                                                                  ┌───╢   ║
-       │  GoFr  │   ┌────────┐                                                 ┌───┤   ║   ║
-       │  CLI   │   │ RAG AI │   ┌────────┐                                ┌───┤   │   ║ ⚑ ║
-       │  NLP   │   │ Legal  │   │ CUDA   │   ┌────────┐               ┌───┤   │   │   ║   ║
-       │  1st!  │   │  AMD   │   │ 15625  │   │Samsung │            ┌───┤   │   │   │   ║   ║
-       │   K    │   │ Winner │   │ Sims   │   │ Top 45 │    ┌───┐ ┌─┤   │   │   │   │   ║   ║
+       │GoGetGit│   ┌────────┐                                                 ┌───┤   ║   ║
+       │  GoFr  │   │ Recipe │   ┌────────┐                                ┌───┤   │   ║ ⚑ ║
+       │  1st!  │   │  IEEE  │   │ Chrome │   ┌────────┐               ┌───┤   │   │   ║   ║
+       │   K    │   │  2025  │   │  Ext   │   │  File  │            ┌───┤   │   │   │   ║   ║
+       │        │   │        │   │ Gemini │   │Convert │    ┌───┐ ┌─┤   │   │   │   │   ║   ║
       ═╧════════╧═══╧════════╧═══╧════════╧═══╧════════╧════╧═══╧═╧═╧═══╧═══╧═══╧═══╧═══╚═══╝══
       ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
