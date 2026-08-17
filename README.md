@@ -76,7 +76,7 @@
 >
 > `Next.js 16` `React 19` `Three.js` `Gemini AI` `Tailwind v4`
 
-**[GoGetGit](https://github.com/AnanteshG/GoFr-Hackathon.git)** &ensp; `1st PLACE`
+**[GoGetGit](https://github.com/KruthikKoundinyas/Gogetgit)** &ensp; `1st PLACE`
 
 > Ask any question about a GitHub repo in plain English and get accurate answers. Won 1st place at GoFr Hackathon 2024.
 >
@@ -262,52 +262,6 @@
     <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KruthikKoundinyas&bg_color=0d1117&color=c9d1d9&line=E8A43E&point=ED7F6E&area=true&area_color=E8A43E&hide_border=true" alt="Contribution Graph" />
   </picture>
 </div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- LEVEL PROGRESS                                                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h3 align="center">Level Progress</h3>
-
-```
-
-    WORLD 1-4                                                                        SCORE: 382
-    ─────────────────────────────────────────────────────────────────────────────────────────────
-
-
-                *                        .              *                   .           *
-          .           *                        *                   .
-                                .                            *                    .
-
-
-                                                                                       ╔═══╗
-                                                                                       ║   ║
-       ┌────────┐                                                                  ┌───╢   ║
-       │GoGetGit│   ┌────────┐                                                 ┌───┤   ║   ║
-       │  GoFr  │   │ Recipe │   ┌────────┐                                ┌───┤   │   ║ ⚑ ║
-       │  1st!  │   │  IEEE  │   │ Chrome │   ┌────────┐               ┌───┤   │   │   ║   ║
-       │   K    │   │  2025  │   │  Ext   │   │  File  │            ┌───┤   │   │   │   ║   ║
-       │        │   │        │   │ Gemini │   │Convert │    ┌───┐ ┌─┤   │   │   │   │   ║   ║
-      ═╧════════╧═══╧════════╧═══╧════════╧═══╧════════╧════╧═══╧═╧═╧═══╧═══╧═══╧═══╧═══╚═══╝══
-      ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-
-
-       LIVES: ♥ ♥ ♥               COINS: 20 repos               ITEMS: 382 problems solved
-
-
-                          ┌──────── UNLOCKED ────────┐
-                          │                           │
-                          │  ★ IEEE Published  2025   │
-                          │  ★ 2,000+ Users Served    │
-                          │  ★ kruthik.tech  LIVE     │
-                          │                           │
-                          └───────────────────────────┘
-
-```
-
----
 
 <div align="center">
 
