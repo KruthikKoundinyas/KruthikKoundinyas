@@ -16,54 +16,119 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ROW 1 · Golden Ratio 38 / 62 · Profile + Tech Arsenal        -->
+<!-- THE WORKSTATION                                                -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
+
+```
+                                                                            
+        ╭───────────────────────────────────╮       ┌─────────┐             
+        │  ~/projects                       │       │ ♫ ♪  ♫  │             
+        │                                   │       │ ┌─────┐ │    ╭─╮     
+        │  $ tree --shipped                 │       │ │     │ │   ╭╯ ╰╮    
+        │                                   │       │ └──┬──┘ │   │ K │    
+        │  .                                │       └────┼────┘   ╰─┬─╯    
+        │  ├── kruthik.tech/                │            │          │      
+        │  │   ├── Next.js 16 + React 19    │        ┌───┘    ╔════╧════╗  
+        │  │   ├── Three.js portal bg       │        │        ║ ☕  hot  ║  
+        │  │   └── Gemini AI chatbot        │     ───┴───     ╚═════════╝  
+        │  ├── GoGetGit/                    │    /       \                  
+        │  │   └── NLP CLI · GoFr winner    │   /  K   R  \     ┌──────┐   
+        │  ├── CUDA-15625/                  │  │    ___    │    │ ◉  ◉ │   
+        │  │   └── parallel RL sims         │  │   |___|   │    │  __  │   
+        │  ├── AMD-RAG/                     │   \  _____  /     │ |  | │   
+        │  │   └── legal chatbot · winner   │    \_______/      └──────┘   
+        │  └── 17 more repos...             │                              
+        │                                   │    ┌──────────────────────┐  
+        │  382 LC · 20 repos · 2K+ users    │    │░▒▓ [ENTER] ▓▒░░░░░░░│  
+        ╰───────────────────────────────────╯    └──────────────────────┘  
+```
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- WHAT I'VE BUILT                                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h3 align="center">What I've Built</h3>
 
 <table>
 <tr>
-<td width="38%" valign="top">
+<td width="50%" valign="top">
 
-<h3 align="center">At a Glance</h3>
+**[kruthik.tech](https://www.kruthik.tech)** &ensp; `LIVE`
+> Spider-Verse themed portfolio. Marvel Studios intro loader, 3D portal backgrounds, palette picker, AI chatbot, environmental storytelling.
+>
+> `Next.js 16` `React 19` `Three.js` `Gemini AI` `Tailwind v4`
 
-<div align="center">
+**GoGetGit** &ensp; `1st PLACE`
+> NLP-powered CLI for natural language Git operations. Built at GoFr hackathon.
+>
+> `Go` `NLP` `RAG` `CLI`
 
-|               |                                             |
-| :------------ | :------------------------------------------ |
-| **Degree**    | B.E. AI/ML, RNSIT                           |
-| **CGPA**      | 8.35 / 10                                   |
-| **Class**     | 2026                                        |
-| **LeetCode**  | 382 solved                                  |
-| **Repos**     | 20+ public                                  |
-| **IEEE**      | Published 2025                              |
-| **Users**     | 2,000+ served                               |
-| **Site**      | [kruthik.tech](https://www.kruthik.tech)    |
-
-</div>
-
-<br/>
-
-<div align="center">
-  <sub>Build full-stack apps and train ML models,<br/>sometimes in the same week.</sub>
-</div>
+**CUDA RL Simulator** &ensp; `RESEARCH`
+> 15,625 parallel reinforcement learning simulations on GPU. Isaac Sim integration.
+>
+> `CUDA` `C++` `Python` `RL` `ROS2`
 
 </td>
-<td width="62%" valign="top">
+<td width="50%" valign="top">
+
+**AMD Legal RAG Chatbot** &ensp; `WINNER`
+> Indian traffic law chatbot with retrieval-augmented generation. Won AMD Pervasive AI hackathon.
+>
+> `Python` `RAG` `ChromaDB` `LLM`
+
+**Samsung JEEV** &ensp; `NATIONAL FINALIST`
+> AI-powered healthcare innovation. Top 45 nationally in Samsung Innovation Campus.
+>
+> `Python` `AI/ML` `TensorFlow`
+
+**IEEE Published** &ensp; `2025`
+> Research paper on AI systems. Published in IEEE conference proceedings.
+>
+> `Research` `AI` `Computer Vision`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+![GoFr Hackathon](https://img.shields.io/badge/GoFr_Hackathon-1st_Place-E8A43E?style=for-the-badge&labelColor=141210)
+![AMD AI](https://img.shields.io/badge/AMD_Pervasive_AI-Winner-76B900?style=for-the-badge&labelColor=141210)
+![Samsung](https://img.shields.io/badge/Samsung_Innovation-National_Finalist-4FA8D8?style=for-the-badge&labelColor=141210)
+![IEEE](https://img.shields.io/badge/IEEE_2025-Published-71649C?style=for-the-badge&labelColor=141210)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- TECH ARSENAL                                                   -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h3 align="center">Tech Arsenal</h3>
 
-**Languages I think in**
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Languages**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,go,cpp&theme=dark" alt="Languages" />
 </p>
 
-**Frameworks I build with**
+**Frameworks**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,tailwind&theme=dark" alt="Frameworks" />
 </p>
 
-**AI / ML toolkit**
+</td>
+<td width="50%" valign="top">
+
+**AI / ML**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" alt="AI/ML" />
@@ -71,10 +136,10 @@
 
 <p align="center">
 
-![YOLOv8](https://img.shields.io/badge/YOLOv8-141210?style=flat-square&logo=yolo&logoColor=E8A43E)
 ![CUDA](https://img.shields.io/badge/CUDA-141210?style=flat-square&logo=nvidia&logoColor=76B900)
 ![RAG](https://img.shields.io/badge/RAG-141210?style=flat-square&logo=openai&logoColor=E8A43E)
 ![RL](https://img.shields.io/badge/RL-141210?style=flat-square&logo=probot&logoColor=ED7F6E)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-141210?style=flat-square&logo=yolo&logoColor=E8A43E)
 
 </p>
 
@@ -91,34 +156,30 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- FULL WIDTH · Achievement Badges                                -->
+<!-- SNAKE CONTRIBUTION GRAPH                                       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h3 align="center">Achievements</h3>
+<h3 align="center">Contribution Snake</h3>
 
 <div align="center">
-
-![GoFr Hackathon](https://img.shields.io/badge/GoFr_Hackathon-1st_Place-E8A43E?style=for-the-badge&labelColor=141210)
-![AMD AI](https://img.shields.io/badge/AMD_Pervasive_AI-Winner-76B900?style=for-the-badge&labelColor=141210)
-![Samsung](https://img.shields.io/badge/Samsung_Innovation-National_Finalist-4FA8D8?style=for-the-badge&labelColor=141210)
-
-![IEEE](https://img.shields.io/badge/IEEE_2025-Published-71649C?style=for-the-badge&labelColor=141210)
-![LeetCode](https://img.shields.io/badge/LeetCode-382_Problems-ED7F6E?style=for-the-badge&labelColor=141210)
-![CUDA](https://img.shields.io/badge/CUDA-15,625_Parallel_Sims-76B900?style=for-the-badge&labelColor=141210)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KruthikKoundinyas/KruthikKoundinyas/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KruthikKoundinyas/KruthikKoundinyas/output/github-snake.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/KruthikKoundinyas/KruthikKoundinyas/output/github-snake-dark.svg" alt="Snake animation" />
+  </picture>
 </div>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ROW 2 · Golden Ratio 62 / 38 (reversed) · Stats + LeetCode   -->
+<!-- THE NUMBERS                                                    -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h3 align="center">The Numbers</h3>
 
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="50%" valign="top">
 
 <div align="center">
   <picture>
@@ -139,7 +200,7 @@
 </div>
 
 </td>
-<td width="38%" valign="top">
+<td width="50%" valign="top">
 
 <div align="center">
   <picture>
@@ -166,20 +227,8 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- FULL WIDTH · Contribution Snake + Activity Graph               -->
+<!-- ACTIVITY GRAPH                                                 -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h3 align="center">Contribution Snake</h3>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KruthikKoundinyas/KruthikKoundinyas/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KruthikKoundinyas/KruthikKoundinyas/output/github-snake.svg" />
-    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/KruthikKoundinyas/KruthikKoundinyas/output/github-snake.svg" width="100%" />
-  </picture>
-</div>
-
-<br/>
 
 <h3 align="center">Contribution Activity</h3>
 
@@ -194,65 +243,93 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ROW 3 · Golden Ratio 38 / 62 · Game Scene + Footer            -->
+<!-- LEVEL PROGRESS                                                 -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
-<table>
-<tr>
-<td width="38%" valign="top">
 
 <h3 align="center">Level Progress</h3>
 
 ```
-  WORLD 1-4          SCORE: 382
 
-        *                     .
-   .        *           *
-                  .
-  [GTTC]               [FLAG]
-  |ERP |   [GoFr]    __|____|
-  |____|   |CLI |  _|  |    |
-   |  |    |NLP | | |  |    |
-   | K|    |____| | |  |    |
-===|__|=====|__|==|_|==|====|=
-///|////////|/////|////|////|/
+    WORLD 1-4                                                                        SCORE: 382
+    ─────────────────────────────────────────────────────────────────────────────────────────────
 
-  COINS: 20     TIME: 2026
+
+                *                        .              *                   .           *
+          .           *                        *                   .
+                                .                            *                    .
+
+
+                                                                                       ╔═══╗
+                                                                                       ║   ║
+       ┌────────┐                                                                  ┌───╢   ║
+       │  GoFr  │   ┌────────┐                                                 ┌───┤   ║   ║
+       │  CLI   │   │ RAG AI │   ┌────────┐                                ┌───┤   │   ║ ⚑ ║
+       │  NLP   │   │ Legal  │   │ CUDA   │   ┌────────┐               ┌───┤   │   │   ║   ║
+       │  1st!  │   │  AMD   │   │ 15625  │   │Samsung │            ┌───┤   │   │   │   ║   ║
+       │   K    │   │ Winner │   │ Sims   │   │ Top 45 │    ┌───┐ ┌─┤   │   │   │   │   ║   ║
+      ═╧════════╧═══╧════════╧═══╧════════╧═══╧════════╧════╧═══╧═╧═╧═══╧═══╧═══╧═══╧═══╚═══╝══
+      ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+
+       LIVES: ♥ ♥ ♥               COINS: 20 repos               ITEMS: 382 problems solved
+
+
+                          ┌──────── UNLOCKED ────────┐
+                          │                           │
+                          │  ★ IEEE Published  2025   │
+                          │  ★ 2,000+ Users Served    │
+                          │  ★ kruthik.tech  LIVE     │
+                          │                           │
+                          └───────────────────────────┘
+
 ```
 
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- LATE NIGHT BUILD SESSION                                       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+```
+
+       ╭──────────────────────────────────────────────────────────────────────────────────╮
+       │                                                                                  │
+       │     ┌─────────────────────┐      ┌──────────┐                                   │
+       │     │  ╔═══════════════╗  │      │ ┌──────┐ │      .  *  .        ╭───────────╮ │
+       │     │  ║  > npm run    ║  │      │ │ 2:47 │ │   *    .      *    │ ♫  lo-fi   │ │
+       │     │  ║    dev        ║  │      │ │  AM  │ │      .    *        │  beats to  │ │
+       │     │  ║               ║  │      │ └──────┘ │   .    *    .      │  code to   │ │
+       │     │  ║  ✓ ready in   ║  │      │    __    │                    ╰─────┬─────╯ │
+       │     │  ║    1.2s       ║  │      │   /  \   │    ╔═════════╗          │        │
+       │     │  ╚═══════════════╝  │      │  |    |  │    ║ ☕      ║     ╭────┴────╮   │
+       │     └──────────┬──────────┘      └────┬─────┘    ║  still  ║     │ (  (  ) │   │
+       │     ┌──────────┴──────────┐           │          ║  hot    ║     │ )  )  ( │   │
+       │     │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│     ┌─────┴──────┐  ╚════╤════╝     ╰─────────╯   │
+       │     └─────────────────────┘     │ ◉ ◉ ◉ ◉ ◉  │       │                        │
+       │                                 └─────────────┘ ──────┘                        │
+       │   ┌──────────────────────────────────────────────────────────────────────────┐  │
+       │   │ ░░░░ [ESC] ░ [F1] ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ │  │
+       │   │ [~]  [1] [2] [3] [4] [5] [6] [7] [8] [9] [0] [-] [=] [  BKSP  ]       │  │
+       │   │ [TAB ] [Q] [W] [E] [R] [T] [Y] [U] [I] [O] [P] [{] [}] [ | ]          │  │
+       │   │ [CAPS ] [A] [S] [D] [F] [G] [H] [J] [K] [L] [;] ['] [ ENTER ]         │  │
+       │   │ [ SHIFT  ] [Z] [X] [C] [V] [B] [N] [M] [,] [.] [/] [  SHIFT  ]        │  │
+       │   │ [CTL] [WIN] [ALT] [         SPACE         ] [ALT] [FN] [  CTL  ]        │  │
+       │   └──────────────────────────────────────────────────────────────────────────┘  │
+       │                                                                                  │
+       ╰──────────────────────────────────────────────────────────────────────────────────╯
+
+                         every repo here was built between midnight and 3 AM
+
+```
+
+---
+
 <div align="center">
-  <sub>Every level taught me something<br/>the docs didn't cover.</sub>
-</div>
 
-</td>
-<td width="62%" valign="top">
-
-<h3 align="center">The Story So Far</h3>
-
-<div align="center">
-
-**B.E. in Artificial Intelligence & Machine Learning**
-RNS Institute of Technology, Bengaluru &middot; CGPA 8.35/10 &middot; Class of 2026
+**Currently building with** &ensp; Next.js 16 &middot; React 19 &middot; TypeScript 5 &middot; Tailwind v4 &middot; Gemini AI &middot; Three.js
 
 <br/>
 
-Built systems serving 2,000+ users. Ran 15,625 parallel CUDA simulations.
-Won GoFr Hackathon 2024 and AMD Pervasive AI Challenge. Published at IEEE 2025.
-
-Every repo here is something I shipped, broke, fixed, and shipped again.
-
-<br/>
-
-**Currently building with**
-
-Next.js 16 &middot; React 19 &middot; TypeScript 5 &middot; Tailwind v4 &middot; Gemini AI &middot; Three.js
-
-<br/><br/>
-
-[![Portfolio](https://img.shields.io/badge/See_the_full_story-kruthik.tech-E8A43E?style=for-the-badge&logo=vercel&logoColor=white)](https://www.kruthik.tech)
+[![Portfolio](https://img.shields.io/badge/See_everything-kruthik.tech-E8A43E?style=for-the-badge&logo=vercel&logoColor=white)](https://www.kruthik.tech)
 
 </div>
-
-</td>
-</tr>
-</table>
