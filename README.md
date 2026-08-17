@@ -19,29 +19,44 @@
 <!-- THE WORKSTATION                                                -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+```
+╭───────────────────────────────────╮
+│  ~/projects                       │
+│  $ tree --shipped                 │
+│                                   │
+│  .                                │
+│  ├── kruthik.tech/                │
+│  │   └── Next.js 16 + Gemini AI   │
+│  ├── GoGetGit/                    │
+│  │   └── GoFr hackathon · 1st     │
+│  ├── recipe-assistant/            │
+│  │   └── YOLOv8 · IEEE 2025       │
+│  ├── text-enhancer/               │
+│  │   └── Chrome ext · Gemini      │
+│  ├── file-converter/              │
+│  │   └── local · 10+ formats      │
+│  ├── nim-game/                    │
+│  │   └── Q-learning AI · retro    │
+│  └── 13 more repos...             │
+│                                   │
+│  382 LC · 20 repos · 2K+ users    │
+╰───────────────────────────────────╯
 ```
 
-        ╭───────────────────────────────────╮       .    ·    *    .    ·
-        │  ~/projects                       │    ·    .    ·    .    *
-        │                                   │       *    .    ·    .
-        │  $ tree --shipped                 │    ╭─────────────────────────╮
-        │                                   │    │  ·  .  *  .  ·  .  *   │
-        │  .                                │    │                         │
-        │  ├── kruthik.tech/                │    │    K R U T H I K        │
-        │  │   └── Next.js 16 + Gemini AI   │    │    ─────────────        │
-        │  ├── GoGetGit/                    │    │    R  Koundinyas        │
-        │  │   └── GoFr hackathon · 1st     │    │                         │
-        │  ├── recipe-assistant/            │    │    Full-Stack · AI/ML   │
-        │  │   └── YOLOv8 · IEEE 2025       │    │                         │
-        │  ├── text-enhancer/               │    │  ░░░▓▓▓░░░▓▓▓░░░▓▓▓░░  │
-        │  │   └── Chrome ext · Gemini      │    │  ·  .  *  .  ·  .  *   │
-        │  ├── file-converter/              │    ╰─────────────────────────╯
-        │  │   └── local · 10+ formats      │       .    ·    *    .    ·
-        │  └── 15 more repos...             │    ·    *    .    ·    .
-        │                                   │       ·    .    *    .
-        │  382 LC · 20 repos · 2K+ users    │          kruthik.tech
-        ╰───────────────────────────────────╯
-```
+</td>
+<td width="50%" valign="middle">
+
+<a href="https://www.kruthik.tech">
+  <img src="./og-hero-fade.png" alt="kruthik.tech hero" width="100%" />
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
