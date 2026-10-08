@@ -10,7 +10,6 @@
 [![Email](https://img.shields.io/badge/Email-141210?style=for-the-badge&logo=gmail&logoColor=ED7F6E)](mailto:kruthikraghuveer@gmail.com)
 
 <!-- <img src="https://komarev.com/ghpvc/?username=KruthikKoundinyas&style=flat-square&color=E8A43E&label=Profile+Views" alt="Profile views" /> -->
-<img src="https://www.kruthik.tech/icons/favicon-96x96.png" alt="Profile" />
 </div>
 
 ---
