@@ -9,8 +9,8 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-141210?style=for-the-badge&logo=leetcode&logoColor=E8A43E)](https://leetcode.com/u/0zcTkGwcZg)
 [![Email](https://img.shields.io/badge/Email-141210?style=for-the-badge&logo=gmail&logoColor=ED7F6E)](mailto:kruthikraghuveer@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=KruthikKoundinyas&style=flat-square&color=E8A43E&label=Profile+Views" alt="Profile views" />
-
+<!-- <img src="https://komarev.com/ghpvc/?username=KruthikKoundinyas&style=flat-square&color=E8A43E&label=Profile+Views" alt="Profile views" /> -->
+<img src="https://www.kruthik.tech/icons/favicon-96x96.png" alt="Profile" />
 </div>
 
 ---
@@ -182,7 +182,7 @@
 <!-- SNAKE CONTRIBUTION GRAPH                                       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h3 align="center">Contribution Snake</h3>
+<h3 align="center">Hungry to Contribute</h3>
 
 <div align="center">
   <picture>
@@ -198,7 +198,7 @@
 <!-- THE NUMBERS                                                    -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h3 align="center">The Numbers</h3>
+<h3 align="center">Look at the Numbers for yourself</h3>
 
 <table>
 <tr>
@@ -208,7 +208,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=KruthikKoundinyas&show_icons=true&hide_border=true&bg_color=0d1117&title_color=E8A43E&text_color=c9d1d9&icon_color=ED7F6E&ring_color=E8A43E&include_all_commits=true&count_private=true" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=KruthikKoundinyas&show_icons=true&hide_border=true&bg_color=ffffff&title_color=141210&text_color=333333&icon_color=E8A43E&ring_color=E8A43E&include_all_commits=true&count_private=true" />
-    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=KruthikKoundinyas&show_icons=true&hide_border=true&bg_color=0d1117&title_color=E8A43E&text_color=c9d1d9&icon_color=ED7F6E&ring_color=E8A43E&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <!-- <img width="100%" src="https://github-readme-stats.vercel.app/api?username=KruthikKoundinyas&show_icons=true&hide_border=true&bg_color=0d1117&title_color=E8A43E&text_color=c9d1d9&icon_color=ED7F6E&ring_color=E8A43E&include_all_commits=true&count_private=true" alt="GitHub Stats" /> -->
   </picture>
 </div>
 
@@ -253,7 +253,7 @@
 <!-- ACTIVITY GRAPH                                                 -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h3 align="center">Contribution Activity</h3>
+<!-- <h3 align="center">Contribution Activity</h3>
 
 <div align="center">
   <picture>
@@ -261,7 +261,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=KruthikKoundinyas&bg_color=ffffff&color=333333&line=E8A43E&point=ED7F6E&area=true&area_color=E8A43E&hide_border=true" />
     <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KruthikKoundinyas&bg_color=0d1117&color=c9d1d9&line=E8A43E&point=ED7F6E&area=true&area_color=E8A43E&hide_border=true" alt="Contribution Graph" />
   </picture>
-</div>
+</div> -->
 
 <div align="center">
 
